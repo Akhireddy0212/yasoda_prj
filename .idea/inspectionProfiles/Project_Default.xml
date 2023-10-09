@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pymysql" />
+          <option value="office_prj.office_app.models.django" />
+          <option value="office_prj.office_app.admin.django" />
+          <option value="office_prj.office_prj.urls.*" />
+          <option value="DJANGO.project_prj.project_prj.urls.project" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
